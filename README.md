@@ -19,6 +19,5 @@ add -> commit -> pushした<br>
 まだPRはしてない。<br>
 
 WebStormでCommit & Push<br>
-**だんだん楽しくなってきた**
 ## piyo
 
