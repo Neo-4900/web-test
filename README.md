@@ -16,6 +16,8 @@
 ## hoge
 first commit branchで作業している<br>
 add -> commit -> pushした<br>
-まだPRはしてない。
+まだPRはしてない。<br>
+---
+WebStormでCommit & Push
 ## piyo
 
