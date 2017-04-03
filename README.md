@@ -14,7 +14,8 @@
 * Neo2
 
 ## hoge
-first commit branchで作業している
-
+first commit branchで作業している<br>
+add -> commit -> pushした<br>
+まだPRはしてない。
 ## piyo
 
