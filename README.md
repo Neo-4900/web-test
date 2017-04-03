@@ -10,6 +10,7 @@
 * Trinity
 * switch
 * Morpheus
+* Neo2
 
 ## hoge
 
