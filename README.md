@@ -17,7 +17,8 @@
 first commit branchで作業している<br>
 add -> commit -> pushした<br>
 まだPRはしてない。<br>
----
-WebStormでCommit & Push
+
+WebStormでCommit & Push<br>
+**だんだん楽しくなってきた**
 ## piyo
 
